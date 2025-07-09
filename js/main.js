@@ -1,3 +1,5 @@
+console.log('✅ main.js is loaded');
+
 (function ($) {
   "use strict";
 
